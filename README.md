@@ -1,19 +1,14 @@
-[![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx?format=jpg&name=large)]
+![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx?format=jpg&name=large)
 <h1 align="center">Hi 👋, I'm Bhupender kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhupender-kumar455" alt="bhupender-kumar455" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack**
-
 - 👯 I’m looking to collaborate on **MERN Stack Project**
-
-- 👨‍💻 All of my projects are available at [https://65773dbaca1cbb1816df7eb3--clever-griffin-bb7864.netlify.app/](https://65773dbaca1cbb1816df7eb3--clever-griffin-bb7864.netlify.app/)
-
+- 👨‍💻 All of my projects are available at [Portfolio](https://65773dbaca1cbb1816df7eb3--clever-griffin-bb7864.netlify.app/)
 - 💬 Ask me about **React,Node.js,Express,MongoDB**
-
 - 📫 How to reach me **kbhupender455@gmail.com**
-
 - ⚡ Fun fact **I think I'm funny sometimes**
 
 <h3 align="left">Connect with me:</h3>
