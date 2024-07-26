@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 - 👯 I’m looking to collaborate on **MERN Stack Project**
-- 👨‍💻 All of my projects are available at [Portfolio](bhupenderk.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bhupenderk.netlify.app/)
 - 💬 Ask me about **React,Node.js,Express,MongoDB,Jira,Asp.net,.Net core, MySql and web API**
 - 📫 How to reach me **kbhupender455@gmail.com**
 - ⚡ Fun fact **I think I'm funny sometimes**
